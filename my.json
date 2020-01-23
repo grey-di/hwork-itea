@@ -1,5 +1,5 @@
 {
-	"first name": "Sergey", #add some comment
+	"first name": "Sergey", #test conflict 2nd attempt
 	"last name": "Ovdienko",
 	"city": "Kyiv",
 	"age": "34",
