@@ -1,6 +1,6 @@
 {
 	"first name": "Sergey", #change for conflict some comment
-	"last name": "Ovdienko",
+	"last name": "Ovdienko", # other dev change
 	"city": "Kyiv",
 	"age": "34",
 	"laptop": "HP"
