@@ -1,5 +1,5 @@
 {
-	"first name": "Sergey", #test conflict 2nd attempt
+	"first name": "Sergey", #FIxed : test conflict 2nd attempt vs #change for conflict some comment
 	"last name": "Ovdienko",
 	"city": "Kyiv",
 	"age": "34",
